@@ -5,6 +5,9 @@ import os
 import csv
 import unittest
 
+Hannah Triester (UMID: 2352 4411)
+Worked with: Ava Frank, Alex Lepore
+
 
 def get_titles_from_search_results(filename):
 	"""
